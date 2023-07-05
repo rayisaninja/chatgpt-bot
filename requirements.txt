@@ -1,0 +1,8 @@
+pyrofork
+tgcrypto
+openai
+python-dotenv
+aiohttp[speedups]
+beanie
+apscheduler
+tiktoken
